@@ -1,5 +1,5 @@
 {
-  "name": "Personal Blog",
+  "name": "PersonalBlog",
   "version": "0.0.1",
   "description": "Personal blog to show my own projects and code snippets.",
   "main": "index.js",
