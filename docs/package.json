@@ -1,0 +1,19 @@
+{
+  "name": "Personal Blog",
+  "version": "0.0.1",
+  "description": "Personal blog to show my own projects and code snippets.",
+  "main": "index.js",
+  "authors": {
+    "name": "Berk Ormanlı",
+    "email": "berkormanl@gmail.com"
+  },
+  "repository": "berkormanli.github.io/Personal Blog",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
